@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cardo';
+    src: url('Cardo-Bold.eot');
+    src: url('Cardo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Cardo-Bold.woff2') format('woff2'),
+        url('Cardo-Bold.woff') format('woff'),
+        url('Cardo-Bold.ttf') format('truetype'),
+        url('Cardo-Bold.svg#Cardo-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
